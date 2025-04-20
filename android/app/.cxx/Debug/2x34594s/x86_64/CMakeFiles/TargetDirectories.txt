@@ -1,0 +1,2 @@
+C:/Users/Prem Bhandugare/OneDrive/Desktop/rubix/android/app/.cxx/Debug/2x34594s/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Prem Bhandugare/OneDrive/Desktop/rubix/android/app/.cxx/Debug/2x34594s/x86_64/CMakeFiles/rebuild_cache.dir
